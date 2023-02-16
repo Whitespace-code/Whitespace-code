@@ -34,7 +34,7 @@
 ---
 <table align="left" style="width:100%">
     <tr>
-        <td align="left" width="10%"><!this cell will contain the badges>            
+        <td align="left" width="20%"><!this cell will contain the badges>            
                 <img src=https://img.shields.io/badge/Language-Python-green>
                 <img src=https://img.shields.io/badge/Version-0.0.1-blue>
         </td>
