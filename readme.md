@@ -14,6 +14,11 @@
         </td>
     </tr>
 </table>
+<div align="center"><!Site starts and reported issues badges>
+    <img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Language-Power_BI-green?logo=powerbi&logoColor=white">
+    <img src="https://img.shields.io/github/stars/whitespace-code?style=social">
+</div>
 <h2 style="color: black">
     About    
 </h2>
@@ -36,8 +41,20 @@
 
 ## &#8987;Current Projects
 - <b>Advent of Code Challenges</b><br/>
-<img src=https://img.shields.io/badge/Language-Python-green> <img src=https://img.shields.io/badge/Version-2022-blue><br/>
-Daily data analysis challenges executed over the christmas period
+<div> <!This section is purely for the badges each line is a new one>
+    <a><img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white"></a>
+    <img src=https://img.shields.io/badge/Year-2022-blue><br/>
+</div>
+    Daily data analysis challenges executed over the christmas period 
+<br/><br/>
+
+- <b>Blackjack</b><br/>
+<div> <!This section is purely for the badges each line is a new one>
+    <a><img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white"></a>
+    <img src=https://img.shields.io/badge/Version-0.0.1-blue><br/>
+</div>
+    Basic game of blackjack created as part of a training session.
+    - Currently working on creating a graphical interface.
     
     
 
