@@ -1,23 +1,18 @@
-<!Header details table>
-<table class="images" width="100%"  style="border:0px solid white; width:100%;">
-    <tr align="center" width="100%" style="border: 0px;">
-        <td style="border:0px;">
-            <img src='./images/banner.png'>     
-        </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr align="center" width="100%" style="border: 0px;">
-        <td style="border:0px;">
-            <img src='./images/Logo_500x60.png'                 
-                 width="250">
-        </td>
-    </tr>
-</table>
-<div align="center"><!Site starts and reported issues badges>
-    <img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white"> &emsp;
-    <img src="https://img.shields.io/badge/Language-Power_BI-green?logo=powerbi&logoColor=white">    
+<!Header information>
+<div align="center">
+    <img src='./images/banner.png'>     
+    <img src='./images/Logo_500x60.png'>    
 </div>
+
+<!Site starts and reported issues badges>
+<div align="center">
+    <img src="https://img.shields.io/badge/Language-python-green?logo=python&logoColor=white&label&style=for-the-badge&color=006400"> &emsp;
+    <img src="https://img.shields.io/badge/Language-Power_BI-green?logo=powerbi&logoColor=white&label&style=for-the-badge&color=006400"><br/>
+    <img src="https://img.shields.io/github/followers/whitespace-code?style=social" alt="GitHub User's followers">
+    <img src="https://img.shields.io/github/stars/whitespace-code?&style=social" alt="GitHub User's stars">
+    <hr/>    
+</div>
+
 <h2 style="color: black">
     About    
 </h2>
@@ -30,41 +25,66 @@
         <br/>
         Core competencies include:
         <ul>
-            <li> high level troubleshooting skills </li>
-            <li> ability to motivate others</li>
-            <li> commitment to continuous improvement </li>
-            <li> excellent communication skills </li>
+            <li> High level troubleshooting skills </li>
+            <li> Ability to motivate others</li>
+            <li> Commitment to continuous improvement </li>
+            <li> Excellent communication skills </li>
         </ul>
     </p>
 </body>
 
 ## &#8987;Current Projects
+- <b>Daily Challenges</b><br/>
+    General daily coding practice challenges/exercises
+<div>
+    <img src="https://img.shields.io/badge/Language-Python-green?labelColor=D3D3D3&logo=python&logoColor=006400&color=006400"> &emsp;
+    <img src="https://img.shields.io/github/license/whitespace-code/daily_challenges">
+    <img src=https://img.shields.io/badge/Version-0.0.1-blue> &emsp;
+        <a href="https://github.com/whitespace-code/daily_challenges/issues">
+        <img src="https://img.shields.io/github/issues/whitespace-code/daily_challenges">
+    </a> &emsp;
+    <img src="https://img.shields.io/github/stars/whitespace-code/daily_challenges?style=social">
+    <img src="https://img.shields.io/github/forks/whitespace-code/daily_challenges?style=social"> &emsp;
+    <br/>
+    <img alt="GitHub last commit" 
+         src="https://img.shields.io/github/last-commit/whitespace-code/daily_challenges">
+</div>
+    General daily coding practice challenges/exercises
+<hr/>
+
 - <b>Advent of Code Challenges</b><br/>
-<div> <!This section is purely for the badges each line is a new one>
-    <a><img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white"></a>
+    Daily data analysis challenges executed over the christmas period 
+<div>
+    <img src="https://img.shields.io/badge/Language-Python-green?labelColor=D3D3D3&logo=python&logoColor=006400&color=006400"> &emsp;
+    <img src="https://img.shields.io/github/license/whitespace-code/adventofcode">
     <img src=https://img.shields.io/badge/Year-2022-blue> &emsp;
-    <img src="https://img.shields.io/github/stars/whitespace-code/python_games?style=social">
-    <img src="https://img.shields.io/github/forks/whitespace-code/python_games?style=social"> &emsp;
-    <a href="https://github.com/whitespace-code/python_games/issues">
-        <img src="https://img.shields.io/github/issues/whitespace-code/python_games">
-    </a>
+    <a href="https://github.com/whitespace-code/adventofcode/issues">
+        <img src="https://img.shields.io/github/issues/whitespace-code/adventofcode">
+    </a> &emsp;
+    <img src="https://img.shields.io/github/stars/whitespace-code/adventofcode?style=social">
+    <img src="https://img.shields.io/github/forks/whitespace-code/adventofcode?style=social"> &emsp;
+    <br/>
+    <img alt="GitHub last commit" 
+         src="https://img.shields.io/github/last-commit/whitespace-code/adventofcode">
     <br/>
 </div>
-    Daily data analysis challenges executed over the christmas period 
-<br/><br/>
+<hr/>
 
-- <b>Blackjack</b><br/>
-<div> <!This section is purely for the badges each line is a new one>
-    <a><img src="https://img.shields.io/badge/Language-Python-green?logo=python&logoColor=white"></a>
+- <b>Python Games</b><br/>
+    Various basic games develop in python.<br/>        
+<div>
+    <img src="https://img.shields.io/badge/Language-Python-green?labelColor=D3D3D3&logo=python&logoColor=006400&color=006400"> &emsp;
+    <img src="https://img.shields.io/github/license/whitespace-code/python_games">
     <img src=https://img.shields.io/badge/Version-0.0.1-blue> &emsp;
+        <a href="https://github.com/whitespace-code/python_games/issues">
+        <img src="https://img.shields.io/github/issues/whitespace-code/python_games">
+    </a> &emsp;
     <img src="https://img.shields.io/github/stars/whitespace-code/python_games?style=social">
     <img src="https://img.shields.io/github/forks/whitespace-code/python_games?style=social"> &emsp;
-    <a href="https://github.com/whitespace-code/python_games/issues">
-        <img src="https://img.shields.io/github/issues/whitespace-code/python_games">
-    </a>    
+    <br/>
+    <img alt="GitHub last commit" 
+         src="https://img.shields.io/github/last-commit/whitespace-code/python_games">
 </div>
-    Basic game of blackjack created as part of a training session.
-    - Currently working on creating a graphical interface.
-    
-    
-
+<br/>
+- Currently working on a blackjack game.
+<hr/>
